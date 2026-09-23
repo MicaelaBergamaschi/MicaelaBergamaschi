@@ -1,4 +1,4 @@
-<h1 align="center">Buenas! soy Micaela Bergamaschi ✨</h1>
+<h1 align="center">Buenas✨soy Micaela Bergamaschi</h1>
 
 <p align="center">
   Estudiante de Ingeniería en Sistemas de Información en la UTN 🎓<br>
