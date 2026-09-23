@@ -3,14 +3,13 @@ Estudio ingeniería en sistemas de información en la Universidad Tecnológica N
 
 ### Tecnologías y herramientas.
 
-### Actualmente estoy aprendiendo.
-
 ### Mis proyectos.
 
-### 
+### ¿Qué estoy haciendo actualmente?
 
 ### Contacto.
-
+➡[LinkedIn](www.linkedin.com/in/micaela-bergamaschi)
+✉ Email: micaelabergamaschi@hotmail.com
 <!--
 **MicaelaBergamaschi/MicaelaBergamaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### ¿Cuales son mis objetivos?
 -->
