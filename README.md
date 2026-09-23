@@ -15,7 +15,7 @@
 
 **Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Lenguajes" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,php" alt="Lenguajes" />
 
 **Backend y bases de datos**
 
@@ -23,7 +23,7 @@
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=idea,git,github,postman,wordpress,vscode," alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=idea,git,github,postman,wordpress,vscode,figma,react" alt="Herramientas" />
 
 **Conocimientos**: Programación Orientada a Objetos · Diagramas UML · Diseño de bases de datos relacionales · Principios SOLID · Diseño de APIs REST · JUnit · Estrategias de desarrollo con agentes IA.
 
