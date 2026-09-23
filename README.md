@@ -1,4 +1,15 @@
-## Hi there 👋
+## Buenas! Soy Micaela Bergamaschi 👋
+Estudio ingeniería en sistemas de información en la Universidad Tecnológica Nacional (UTN).
+
+### Tecnologías y herramientas.
+
+### Actualmente estoy aprendiendo.
+
+### Mis proyectos.
+
+### 
+
+### Contacto.
 
 <!--
 **MicaelaBergamaschi/MicaelaBergamaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
