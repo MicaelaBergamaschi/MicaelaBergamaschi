@@ -1,45 +1,56 @@
-## Buenas✨ Soy Micaela Bergamaschi 
-Estudio ingeniería en sistemas de información en la Universidad Tecnológica Nacional (UTN).
+<h1 align="center">Hola, soy Micaela Bergamaschi ✨</h1>
 
-### Tecnologías y herramientas.
+<p align="center">
+  Estudiante de Ingeniería en Sistemas de Información en la UTN 🎓<br>
+  Desarrolladora backend con foco en Java y Spring Boot
+</p>
 
-👩‍💻**Lenguajes**: SQL, HTML, CSS, JavaScript, Java, PHP.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20work-primer%20empleo%20IT-2ea44f?style=for-the-badge" alt="Open to work">
+</p>
 
-🧰**Tecnologías y herramientas**: MySQL, PosGreSQL, Spring Boot, IntelliJ, GitHub, Git, JUnit, PostMan, Wordpress.
+---
 
-👁‍🗨 **Otros**: Programación Orientada a Objetos, Diagramas UML, Diseño de Bases de datos
-Relacionales, Principios SOLID, Diseño de APIs REST.
+## 🧰 Tecnologías y herramientas
 
-### Mi experiencia.
-#### PSICAID.
+**Lenguajes**
 
-#### PivotERP.
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Lenguajes" />
 
-#### Turismo Helvecia.
+**Backend y bases de datos**
 
-### ¿Qué estoy haciendo actualmente?
-Actualmente estoy trabajando de manera autodidacta en proyectos
-propios con el fin de desarrollar una carrera full-stack, integrando herramientas de IA
-como Antigravity y Claude en mi flujo de desarrollo. Busco mi primera oportunidad
-laboral en el mundo IT para continuar aprendiendo y mejorando tanto mis
-habilidades técnicas como blandas.
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres" alt="Backend y bases de datos" />
 
-### Contacto.
-✨[LinkedIn](www.linkedin.com/in/micaela-bergamaschi)
+**Herramientas**
 
-✉ micaelabergamaschi@hotmail.com
-<!--
-**MicaelaBergamaschi/MicaelaBergamaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=idea,git,github,postman,wordpress,vscode," alt="Herramientas" />
 
-Here are some ideas to get you started:
+**Conocimientos**: Programación Orientada a Objetos · Diagramas UML · Diseño de bases de datos relacionales · Principios SOLID · Diseño de APIs REST · JUnit · Estrategias de desarrollo con agentes IA.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ### ¿Cuales son mis objetivos?
--->
+## 💼 Mi experiencia
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **PSICAID** |  |
+| **PivotERP** |  |
+| **Turismo Helvecia** |  |
+
+---
+
+## 🚀 ¿Qué estoy haciendo actualmente?
+
+Trabajo de forma autodidacta en proyectos propios para construir una carrera full-stack, integrando herramientas de IA como Antigravity y Claude en mi flujo de desarrollo.
+
+Estoy buscando mi **primera oportunidad laboral en IT** para seguir creciendo, tanto en habilidades técnicas como blandas.
+
+---
+
+## 📫 Contacto
+
+<a href="https://www.linkedin.com/in/micaela-bergamaschi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:micaelabergamaschi@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
