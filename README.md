@@ -8,7 +8,7 @@ Estudio ingeniería en sistemas de información en la Universidad Tecnológica N
 🧰**Tecnologías y herramientas**: MySQL, PosGreSQL, Spring Boot, IntelliJ, GitHub, Git, JUnit, PostMan, Wordpress.
 
 👁‍🗨 **Otros**: Programación Orientada a Objetos, Diagramas UML, Diseño de Bases de datos
-Relacionales, Principios SOLID
+Relacionales, Principios SOLID, Diseño de APIs REST.
 
 ### Mi experiencia.
 #### PSICAID.
@@ -23,7 +23,6 @@ propios con el fin de desarrollar una carrera full-stack, integrando herramienta
 como Antigravity y Claude en mi flujo de desarrollo. Busco mi primera oportunidad
 laboral en el mundo IT para continuar aprendiendo y mejorando tanto mis
 habilidades técnicas como blandas.
-
 
 ### Contacto.
 ✨[LinkedIn](www.linkedin.com/in/micaela-bergamaschi)
