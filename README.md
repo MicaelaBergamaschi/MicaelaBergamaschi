@@ -26,6 +26,7 @@
 <img src="https://skillicons.dev/icons?i=idea,git,github,postman,wordpress,vscode," alt="Herramientas" />
 
 **Conocimientos**: Programación Orientada a Objetos · Diagramas UML · Diseño de bases de datos relacionales · Principios SOLID · Diseño de APIs REST · JUnit · Estrategias de desarrollo con agentes IA.
+
 ---
 
 ## 💼 Mi experiencia
